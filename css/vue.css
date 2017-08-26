@@ -225,3 +225,22 @@ img {
 .highlight .gutter {
   width: 1.5em;
 }
+
+/* ads */
+#carbonads {
+  height: 100px;
+  margin: 15px;
+  font-size: 13px;
+}
+#carbonads .carbon-img {
+  float: left;
+  margin-right: 10px;
+}
+#carbonads .carbon-text {
+  color: #444;
+}
+#carbonads .carbon-poweredby {
+  color: #999;
+  display: block;
+  margin-top: 5px;
+}
