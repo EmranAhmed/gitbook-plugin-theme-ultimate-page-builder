@@ -100,6 +100,7 @@ li a {
 code span.css,
 code span.javascript,
 code span.html,
+code span.php,
 span[class^="hljs-"] {
   -webkit-font-smoothing: initial;
   -moz-osx-font-smoothing: initial;
@@ -144,6 +145,7 @@ pre code {
 pre code.lang-html:after,
 pre code.lang-js:after,
 pre code.lang-bash:after,
+pre code.lang-php:after,
 pre code.lang-css:after {
   position: absolute;
   top: 0;
@@ -159,6 +161,10 @@ pre code.lang-css:after {
 
 pre code.lang-html:after {
   content: 'HTML';
+}
+
+pre code.lang-php:after {
+  content: 'PHP';
 }
 
 pre code.lang-js:after {
