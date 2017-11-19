@@ -1,4 +1,4 @@
-# GitBook Plugin Theme for Vue.js Components
+# GitBook Plugin Theme for Ultimate Page Builder Docs
 
 > This project forked by [official Vue.js organization](https://github.com/vuejs/gitbook-plugin-theme-vuejs) repository.
 
@@ -17,3 +17,5 @@ Init theme in your `book.js` file:
   ]
 }
 ```
+
+Maintained by [Emran Ahmed](https://github.com/EmranAhmed/gitbook-plugin-theme-ultimate-page-builder)
