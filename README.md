@@ -13,11 +13,7 @@ Init theme in your `book.js` file:
 ``` js
 {
   "plugins": [
-    "theme-vuejs-2"
+    "theme-ultimate-page-builder"
   ]
 }
 ```
-
-### Author & maintainers
-
-Development and maintenance engaged by [Vic Shóstak](https://github.com/koddr) (aka Koddr) for [True//web/artisans](https://github.com/webartisans-org). If you want to say «thank you» and/or ask me about this GitBook theme — [create new issue](https://github.com/koddr/gitbook-plugin-theme-vuejs-noads/issues/new).
